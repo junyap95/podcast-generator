@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator - JYAP"
 author: "JYAP"
 description: "Generates a feed for podcast from a YAML file"
 runs:
